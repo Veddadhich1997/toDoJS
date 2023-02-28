@@ -1,6 +1,7 @@
 # toDoJS
 This is a todo app using HTML,CSS and JavaScript
 
-## Link
+## link
+[link](https://todoappj.netlify.app/)
 
-todoappj.netlify.app
+
